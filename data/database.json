@@ -1,0 +1,12 @@
+{
+  "products": [],
+  "categories": [
+    "Summer",
+    "Winter"
+  ],
+  "admin": {
+    "email": "admin@elitefabrics.online",
+    "passwordHash": "b55952744b9c8377041842559582e990325a48f1d61cfe367f0f07b93a11671eecc979c503fc68b36e1283f81e8991143bc3d6866c01ca589bec93b761b396db",
+    "salt": "5e3c50fc7215a6e5cfd29b3d1fe63a95"
+  }
+}

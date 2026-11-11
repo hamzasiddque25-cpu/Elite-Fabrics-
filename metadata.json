@@ -1,0 +1,6 @@
+{
+  "name": "Elite Fabrics",
+  "description": "Clean, modern fashion and clothing shopping discovery platform promoting outfits, clothing, dresses and fashion products through verified Amazon affiliate links.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
